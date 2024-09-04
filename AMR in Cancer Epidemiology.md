@@ -12,8 +12,8 @@ With many doctors now using indwelling medical devices like central venous cathe
 
 Common examples of Gram-positive bacteria that are now frequently implicated in cancer patients include:
 
-* _Staphylococcus aureus__, e.g methicillin-resistant _Staphylococcus aureus_ (MRSA) which can form biofilms
-* Coagulase-negative _Staphylococc_i (such as_ Staphylococcus epidermidis_)
+* _Staphylococcus aureus, e.g methicillin-resistant _Staphylococcus aureus_ (MRSA) which can form biofilms
+* Coagulase-negative _Staphylococci (such as_ Staphylococcus epidermidis_)
 
 * _Enterococcus species__ such as _vancomycin-resistant enterococci_ (VRE)
 
