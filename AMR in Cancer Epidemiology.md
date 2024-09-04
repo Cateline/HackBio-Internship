@@ -11,11 +11,9 @@ Over the past few decades, the epidemiology of bacteremia(bacteria in the bloods
 With many doctors now using indwelling medical devices like central venous catheters and broad-spectrum antibitiocs to treat these infections, Gram-positive bacteria are now taking over, mostly because the devices make a direct route for them to enter the bloodstream, and also because the antibiotics disrupt their normal flora.
 
 Common examples of Gram-positive bacteria that are now frequently implicated in cancer patients include:
-
-* Staphylococcus aureus, e.g methicillin-resistant _Staphylococcus aureus_ (MRSA) which can form biofilms
-* Coagulase-negative Staphylococci (such as_ Staphylococcus epidermidis_)
-
-* _Enterococcus species such as vancomycin-resistant enterococci(VRE)
+* _Staphylococcus aureus_, e.g methicillin-resistant_ Staphylococcus aureus_ (MRSA) which can form biofilms
+* Coagulase-negative _Staphylococci_ (such as _Staphylococcus epidermidis_)
+* _Enterococcus species_ such as vancomycin-resistant _enterococci_ (VRE)
 
 The evolution of AMR requires clinicians to continuously be upto date on the resistance trends in their regions. One of the strategies clinicians can use to combat resistance is implementing antimicrobial stewardship programs. Antimicrobial ttreatment should be given to Cancer patients  at the optimal dose and duration to minimize resistance(Nanayakkara, 2021). Also, innovative treatments like bacteriophages will come in very handy in severe cases.
 
