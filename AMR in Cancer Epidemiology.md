@@ -1,4 +1,4 @@
-# Antimicrobial Resistance in Cancer Epidemiology**
+# Antimicrobial Resistance in Cancer Epidemiology
 ## Author(@slack): Cateline Atieno Ouma (@Cateline)
 Antimicrobial resistance (AMR), otherwise known as the “Silent Pandemic” is a significant global public health challenge. According to WHO data, there was an estimated 4·95 million deaths associated with bacterial AMR in 2019, and by 2050, this number is expected to increase to 10 million deaths per year (_Antimicrobial resistance_, 2023).
 
