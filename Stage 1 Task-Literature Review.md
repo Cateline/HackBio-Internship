@@ -38,7 +38,8 @@ Statistical tests, including the McNemar test for agreement and Cohen’s kappa 
 
 Resistance mechanisms were primarily due to:
 
-![https://lh7-rt.googleusercontent.com/slidesz/AGV_vUehSOAF2RVQ8h2-6PG4zgfJvEFcB9qIKgy0aDpX60VKOjaNwQqh8lCOM2GZ_HaQNoGjZ6DU9kXGvZOjdMLKn81BXGGrebierE_tRvCz-H208zU8I6ezh6tsAMDvpWrk9CrD4ThfO8CKe4wjwbbJdg81Z-azDSg=s2048?key=H2PvYYm4i1Jcw2hyCMJgrA](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
+![image](https://github.com/user-attachments/assets/79fdd08a-fb31-4e72-9b90-8cda994a7390)
+
 
 ·         Exogenous β-lactamase acquisition in E. coli and K. pneumoniae (98% of predicted instances).
 
@@ -49,7 +50,8 @@ Among the 360 combinations of isolates and β-lactams tested, WGS identified a t
 Only 87 out of 133 (approximately 65%) of these predicted resistance events would have been detected using a typical PCR-based approach.
 
 ***Diagnostic Performance***
-![image](https://github.com/user-attachments/assets/f9e79e25-243d-4472-aa4a-19858927be19)
+![image](https://github.com/user-attachments/assets/6685b516-8a8e-4152-811c-bfc878f25f3a)
+
 
 
 The sensitivity of the WGS method for predicting AMR was 0.87 (87%).
