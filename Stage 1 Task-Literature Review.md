@@ -49,8 +49,8 @@ Among the 360 combinations of isolates and β-lactams tested, WGS identified a t
 Only 87 out of 133 (approximately 65%) of these predicted resistance events would have been detected using a typical PCR-based approach.
 
 ***Diagnostic Performance***
+![image](https://github.com/user-attachments/assets/f9e79e25-243d-4472-aa4a-19858927be19)
 
-![https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdT3O0pqEzLgUYyoSoMkBVxB3jRYE_ep7MeRC7FxuiqT9-19iBn0Px96EpW6jRXQ18MpEQIgGXAVQTSBYAWPkPO1legQXXzQ9Jlg00dnR_U-8MR6TApkKyytTHXPXx4Mk0j6mRfcBsuKpwAnLuZlA0vnDi22QLR=s2048?key=H2PvYYm4i1Jcw2hyCMJgrA](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)
 
 The sensitivity of the WGS method for predicting AMR was 0.87 (87%).
 
