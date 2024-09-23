@@ -72,3 +72,21 @@ A_count=$(grep -o "A" FOXP2.fasta | wc -l)
 G_count=$(grep -o "G" FOXP2.fasta | wc -l)
 C_count=$(grep -o "C" FOXP2.fasta | wc -l)
 T_count=$(grep -o "T" FOXP2.fasta | wc -l)
+# 19. Upload the file to your team’s GitHub repo in a folder called /output
+git add Cateline_O.fasta
+git commit -m "Adding nucleotide counts for FOXP2 gene"
+# Generating an SSH Key Pair
+ssh-keygen -t ed25519 -C "oumacate2000@gmail.com"
+#Displaying the Public Key
+cat ~/.ssh/id_ed25519.pub
+#Adding the SSH Key to GitHub and updating Git Remote to SSH
+git remote set-url origin git@github.com:Cateline/HackBio-Internship.git
+#Pushing Changes to GitHub:
+git push origin main
+# 19. Adding codes to script
+# Add the Cateline.sh file to the Git staging area, preparing it to be committed.
+git add Cateline.sh
+# Commit the changes
+git commit -m "Add Cateline.sh script"
+# Push the committed changes to the remote repository (GitHub)
+git push origin main
